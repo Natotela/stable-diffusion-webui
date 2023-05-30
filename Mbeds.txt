@@ -1,0 +1,10 @@
+
+alberto-mielgo, all-rings-albuns, anime-background-style-v2, bada-club, belen, CallOfBeauty, cancer_style, carmen_sandiego_v1-1_shurik-2000, charturner, charturnerv2, color-page, diaosu-toy, dollienobodysd15, doose-s-realistic-art-style, dr-strange, dtv-pkmn, durer-style, fluid-acrylic-jellyfish-creatures-style-of-carl-ingram-art, frank-frazetta, ganyu-genshin-impact, glow-forest, greyscale, guttestreker, hiten-style-nao, hk-hkisland, hrgiger-drmacabre, huang-guang-jian, iridescent-illustration-style, joemad, line-art, line-style, liquid-light, looney-anime, lugal-ki-en, mikako-method, moeb-style, owl-house, pascalsibertin, pureerosface_v1, retro-mecha-rangers, ruan-jia, sakimi-style, sty-cyber, Style-Empire, Style-Hamunaptra, style-nebmagic, style-of-marc-allante, Style-Princess, style-rustmagic, style-sylvamagic, Style-Winter, summie-style, t-skrang, testUNO, thunderdome-cover, tudisco, vb-mox, vkuoo1, wlop-style,
+final-fantasy-logo, kings-quest-agd, 
+monster-toy, olli-olli, spritual-monsters, Shluli, furrpopasthetic
+shinybimbo, WAS-CBB, 
+ann3hathawa72, b4rref4eli, 1uciajavorcekova, cherrynobodysd15, evelynnobodysd15, linds3yp3las, p4m2000s, nadiajemez, 
+
+bad-image-v2-39000, bad-artist-anime, bad-artist, bad-hands-5, badhandv4, bad_prompt_version2, easynegative, verybadimagenegative_v1.2-6400, verybadimagenegative_v1.3, neg_grapefruit, ng_deepnegative_v1_75t, 
+sty-cyber-neg, Style-Empire-neg, style-nebmagic-neg, style-rustmagic-neg, 
+Shluli-neg
