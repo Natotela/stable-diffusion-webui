@@ -4759,6 +4759,16 @@
             "model": "91c12d9502808b1ba45a4f5ead5d507435ab704e98cca84e18373bf0011dd0f5",
             "legacy": "4840f0a9",
             "mtime": 1688119208.344148
+        },
+        "F:\\Progz\\stable-diffusion-webui\\models/lora\\2_fresherz\\3DMM_V12.safetensors": {
+            "model": "7d5c705f0ff8c4c36854633109efe64b70091ebae6f423bc566d113845aadfc8",
+            "legacy": "3e371480",
+            "mtime": 1688396007.0222855
+        },
+        "F:\\Progz\\stable-diffusion-webui\\models\\Lora\\2_fresherz\\3DMM_V12.safetensors": {
+            "model": "7d5c705f0ff8c4c36854633109efe64b70091ebae6f423bc566d113845aadfc8",
+            "legacy": "3e371480",
+            "mtime": 1688396007.0222855
         }
     }
 }
